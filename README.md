@@ -23,4 +23,5 @@ BidNow is an **auction-style e-commerce system** where users can register, bid o
 - **Methodology**: System Analysis & Design (ISAD coursework)  
 - **Core Skills**: Requirements Analysis, Diagramming, CRUD Mapping
 
- “All data is simulated for academic purposes only.”
+## Disclaimer
+All data and references used in this project are for **academic purposes only**.  
