@@ -11,12 +11,12 @@ BidNow is an **auction-style e-commerce system** where users can register, bid o
 - Document complete **use cases** including flows, exceptions, and stakeholders.
 
 ## Contents
-- **Use Case Diagrams & Descriptions** – Detailed user actions and system responses.  
-- **Activity Diagrams** – Step-by-step workflows for core functions.  
-- **Class Diagram** – Data structures and relationships between system entities.  
-- **State Machine Diagram** – Status flow for core objects (e.g., `Form Penawaran`).  
-- **Sequence Diagrams** – Interaction flows for registration, bidding, forum posts, replies, and shipping.  
-- **CRUD Mapping** – Linking use cases with database operations.
+- **Use Case Diagrams & Descriptions**, Detailed user actions and system responses.  
+- **Activity Diagrams**, Step-by-step workflows for core functions.  
+- **Class Diagram**, Data structures and relationships between system entities.  
+- **State Machine Diagram**, Status flow for core objects (e.g., `Form Penawaran`).  
+- **Sequence Diagrams**, Interaction flows for registration, bidding, forum posts, replies, and shipping.  
+- **CRUD Mapping**, Linking use cases with database operations.
 
 ## Tools & Methodologies
 - **Modeling Language**: UML (Use Case, Activity, Class, Sequence, State Machine)  
